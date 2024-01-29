@@ -1,5 +1,5 @@
 ﻿
-internal class Product
+public abstract class Product
 {
     public int Description
     {
