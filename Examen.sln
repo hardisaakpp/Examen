@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen.Logic", "Examen.Logic.csproj", "{C3AEA172-8796-44D7-896F-1B3A56E313A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examen.UX", "..\examen.UX\examen.UX.csproj", "{1A6F1035-C6CE-4A76-B296-E81F2D7FBEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3AEA172-8796-44D7-896F-1B3A56E313A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AEA172-8796-44D7-896F-1B3A56E313A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AEA172-8796-44D7-896F-1B3A56E313A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AEA172-8796-44D7-896F-1B3A56E313A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A6F1035-C6CE-4A76-B296-E81F2D7FBEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6F1035-C6CE-4A76-B296-E81F2D7FBEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6F1035-C6CE-4A76-B296-E81F2D7FBEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6F1035-C6CE-4A76-B296-E81F2D7FBEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C05C6326-ED21-48AE-ABA5-58F7333411F2}
+	EndGlobalSection
+EndGlobal
